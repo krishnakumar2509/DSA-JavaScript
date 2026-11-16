@@ -8,6 +8,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | ------- | ------- |
 | [0001-two-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0217-contains-duplicate/) | Easy |
@@ -22,6 +23,7 @@ My daily LeetCode problem-solving journey using JavaScript
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0242-valid-anagram/) | Easy |
@@ -49,5 +51,6 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
