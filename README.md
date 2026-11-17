@@ -33,6 +33,7 @@ My daily LeetCode problem-solving journey using JavaScript
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
