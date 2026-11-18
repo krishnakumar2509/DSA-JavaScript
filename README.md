@@ -24,6 +24,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0219-contains-duplicate-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0125-valid-palindrome](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +81,8 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
