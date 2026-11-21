@@ -11,7 +11,7 @@ var romanToInt = function(s) {
     for(let i=0;i<s.length;i++){
            let current = roman[s[i]];
            let next = roman[s[i+1]];
-        if(current<next && i+1<s.length){
+        if(current<next ){
             total-=current;
         }
         else{
