@@ -22,6 +22,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -40,6 +41,7 @@ My daily LeetCode problem-solving journey using JavaScript
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0125-valid-palindrome/) | Easy |
@@ -77,6 +79,7 @@ My daily LeetCode problem-solving journey using JavaScript
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
