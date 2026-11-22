@@ -4,20 +4,13 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    let left = 0;
-    let right = 1;
-    while(left<nums.length){
-        let total = nums[left] + nums[right];
-        if(total === target && left!==right){
-            return [left,right];
+    let map = new Map();
+
+    for(let i=0;i<nums.length;i++){
+        let complement = target - nums[i];
+        if(map.has(complement)){
+            return [map.get(complement),i]
         }
-        if(right === nums.length-1){
-            right=left+1;
-            left++;
-        }
-        else{
-            right++;
-        }
-        
+        map.set(nums[i],i);
     }
 };
