@@ -26,6 +26,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0001-two-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0242-valid-anagram/) | Easy |
@@ -81,6 +82,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0088-merge-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -90,6 +92,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -133,4 +136,8 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
