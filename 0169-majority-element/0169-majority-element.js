@@ -3,17 +3,14 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let freq={};
-    for(let no of nums){
-        freq[no] = (freq[no]||0)+1;
+    let freq= new Map();
+    for(let i=0;i<nums.length;i++){
+        freq.set(nums[i],(freq.get(nums[i]) || 0) + 1)
     }
-    let maxCount = 0;
-    let high = null;
-    for(let [no1,count] of Object.entries(freq)){
-        if(count>maxCount){
-            maxCount = count;
-            high=Number(no1);
+    for(let [key,value] of freq){
+        if(value> nums.length/2){
+            return key;
         }
     }
-    return high;
+   
 };
