@@ -19,6 +19,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0219-contains-duplicate-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
@@ -33,6 +34,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0219-contains-duplicate-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -45,6 +47,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0217-contains-duplicate](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
@@ -63,10 +66,12 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -146,4 +151,16 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0036-valid-sudoku/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
