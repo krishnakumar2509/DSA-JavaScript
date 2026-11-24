@@ -9,6 +9,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0001-two-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0036-valid-sudoku](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0036-valid-sudoku/) | Medium |
 | [0056-merge-intervals](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0057-insert-interval/) | Medium |
 | [0088-merge-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0088-merge-sorted-array/) | Easy |
@@ -25,6 +26,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | ------- | ------- |
 | [0001-two-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0036-valid-sudoku/) | Medium |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0217-contains-duplicate/) | Easy |
@@ -140,4 +142,8 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0202-happy-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
