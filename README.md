@@ -40,6 +40,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0242-valid-anagram](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -77,6 +80,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,10 +163,12 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
