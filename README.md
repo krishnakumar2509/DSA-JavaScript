@@ -23,6 +23,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
