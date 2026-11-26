@@ -15,6 +15,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0057-insert-interval](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0057-insert-interval/) | Medium |
 | [0088-merge-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -31,6 +32,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0013-roman-to-integer](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0217-contains-duplicate/) | Easy |
@@ -176,4 +178,8 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
