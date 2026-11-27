@@ -17,6 +17,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0268-missing-number/) | Easy |
@@ -117,6 +118,7 @@ My daily LeetCode problem-solving journey using JavaScript
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -127,6 +129,7 @@ My daily LeetCode problem-solving journey using JavaScript
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -182,4 +185,8 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
