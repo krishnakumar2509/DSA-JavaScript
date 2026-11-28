@@ -25,6 +25,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0347-top-k-frequent-elements](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0525-contiguous-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -47,6 +48,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0525-contiguous-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -192,6 +194,7 @@ My daily LeetCode problem-solving journey using JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/krishnakumar2509/DSA-JavaScript/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
